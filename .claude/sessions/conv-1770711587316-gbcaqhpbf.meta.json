@@ -3,17 +3,17 @@
   "title": "帮我生成一个未来一周的AI题材库收集器，每天早上7带你帮我生成出来，按照日期命名；",
   "titleGenerationStatus": "failed",
   "createdAt": 1770711587319,
-  "updatedAt": 1770714182953,
-  "lastResponseAt": 1770714182953,
+  "updatedAt": 1770715150630,
+  "lastResponseAt": 1770715150630,
   "sessionId": "0baa9902-832c-4a59-82ce-bb741028f689",
   "sdkSessionId": "0baa9902-832c-4a59-82ce-bb741028f689",
   "usage": {
     "model": "sonnet",
-    "inputTokens": 8,
-    "cacheCreationInputTokens": 84058,
-    "cacheReadInputTokens": 13669,
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
     "contextWindow": 200000,
-    "contextTokens": 97735,
-    "percentage": 49
+    "contextTokens": 0,
+    "percentage": 0
   }
 }
