@@ -1,0 +1,19 @@
+{
+  "id": "conv-1771054442943-2q03p1yi6",
+  "title": "Identify Claude model version",
+  "titleGenerationStatus": "success",
+  "createdAt": 1771054442943,
+  "updatedAt": 1771054459904,
+  "lastResponseAt": 1771054459904,
+  "sessionId": "88b8afca-8f24-4259-b9b1-5845bf97cb63",
+  "sdkSessionId": "88b8afca-8f24-4259-b9b1-5845bf97cb63",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 669,
+    "cacheReadInputTokens": 18037,
+    "contextWindow": 200000,
+    "contextTokens": 18716,
+    "percentage": 9
+  }
+}
