@@ -1,0 +1,19 @@
+{
+  "id": "conv-1771837583622-74l8pdu1l",
+  "title": "Greet in Chinese",
+  "titleGenerationStatus": "success",
+  "createdAt": 1771837583622,
+  "updatedAt": 1771837599335,
+  "lastResponseAt": 1771837594571,
+  "sessionId": "f124001f-f7c6-4603-abac-644e7a32f215",
+  "sdkSessionId": "f124001f-f7c6-4603-abac-644e7a32f215",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 5694,
+    "cacheReadInputTokens": 13947,
+    "contextWindow": 200000,
+    "contextTokens": 19644,
+    "percentage": 10
+  }
+}
