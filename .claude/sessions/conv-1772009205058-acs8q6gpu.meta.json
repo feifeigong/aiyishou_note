@@ -1,0 +1,20 @@
+{
+  "id": "conv-1772009205058-acs8q6gpu",
+  "title": "Clarify unclear input",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772009205058,
+  "updatedAt": 1772009215324,
+  "lastResponseAt": 1772009212249,
+  "sessionId": "1fba0948-066a-4656-af7d-633e13ef511f",
+  "sdkSessionId": "1fba0948-066a-4656-af7d-633e13ef511f",
+  "currentNote": "ai_topic_library/2026-02-25-AI题材库.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 848,
+    "cacheReadInputTokens": 18824,
+    "contextWindow": 200000,
+    "contextTokens": 19675,
+    "percentage": 10
+  }
+}
